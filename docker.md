@@ -120,9 +120,3 @@
 - Docker ile Laravel / React / Node.js Uygulaması Yayınlama
 - Docker Registry Kurmak (Harici depolama)
 
----
-
-Hazırlayan: **Mücahit [YouTube Kanal Adı]**  
-İletişim: [LinkedIn, GitHub, vs.]
-
----
